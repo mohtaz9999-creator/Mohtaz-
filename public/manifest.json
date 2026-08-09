@@ -1,0 +1,18 @@
+{
+  "short_name": "Binance Bot",
+  "name": "Binance Futures Trading Bot",
+  "description": "لوحة تحكم احترافية لإدارة ومراقبة بوت التداول الآلي للعقود الآجلة على مدار 24 ساعة.",
+  "icons": [
+    {
+      "src": "/icon.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#020617",
+  "theme_color": "#10b981",
+  "display": "standalone",
+  "orientation": "portrait"
+}

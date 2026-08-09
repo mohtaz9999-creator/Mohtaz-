@@ -1,0 +1,8 @@
+{
+  "name": "Remix otazplus",
+  "description": "A highly professional, mobile-friendly full-stack dashboard for managing and monitoring an automated Binance Futures trading bot running 24/7 in the background.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
